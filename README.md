@@ -91,8 +91,10 @@ Handles:
 
 ## 📬 Contact
 
-📧 Email: mr.hooshangi.official@gmail.com  
-🌐 Website: [mohsenhooshangi.ir](https://www.mohsenhooshangi.ir)  
-📱 GitHub: [mrhooshangigit](https://github.com/mrhooshangigit)
+If you’d like to learn more or collaborate:
+
+- 📧 Email: **mr.hooshangi.official@gmail.com**  
+- 🌐 Website: [www.mohsenhooshangi.ir](https://www.mohsenhooshangi.ir)  
+- 🖥️ GitHub: [github.com/MohsenHooshangi](https://github.com/MohsenHooshangi)
 
 
